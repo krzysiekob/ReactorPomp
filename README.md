@@ -1,3 +1,4 @@
 # ReactorPomp
 
-Obsługa pompy perystaltycznej reaktora wapnia.
+Sterowanie pompą perystaltyczną reaktora wapnia w akwarium rafowym.
+
